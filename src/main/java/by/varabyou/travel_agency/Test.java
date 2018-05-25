@@ -5,4 +5,8 @@ public class Test {
     public void test() {
         System.out.printf("Test...");
     }
+
+    public void test2() {
+
+    }
 }
